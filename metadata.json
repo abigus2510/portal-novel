@@ -1,0 +1,6 @@
+{
+  "name": "PustakaNovel - Portal Baca Novel Digital",
+  "description": "Platform membaca novel digital lengkap dengan mode malam, bookmark, progres baca, komentar bab, notifikasi bab baru, pembayaran koin/VIP, akses luring, dan studio penulis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
